@@ -1,16 +1,25 @@
 ---
 ---
     
-@import "bootstrap";
 
 img { margin-bottom: 24px; 
      margin-top: 17px; 
     border-radius:2%;
 }
 
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 15px;
+  border-radius: 10px;
+}
 
-body {
-	padding-top: 70px;
+.icons {
+  display: flex;
+}
+
+.icons i {
+  font-size:30px;
+  margin: 5px;
 }
 
 figcaption {
@@ -19,6 +28,76 @@ figcaption {
     margin-bottom: 20px;
 }
 
+.header-ul li a {
+	color: black !important;
+	font-weight: bold;
+}
+.main-back a {
+  color:black;
+  text-underline: black;
+}
+.main-back {
+  text-align: justify;
+  font-size: larger;
+
+  position: relative;
+
+
+
+
+	padding: 10px 0 ;
+
+}
+
+.quote-divider {
+  margin: 30px auto;
+  border: none;
+  height: 2px;
+  width: 50%; /* Makes the divider line centered and clean */
+  background: #333; /* Sexy dark color for the line */
+}
+
+.links-pub {
+  margin: 10px 0;
+}
+
+.links-pub a.btn {
+  color: black;
+  border: 1px solid black;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  padding-top: 0.15rem;
+  padding-bottom: 0.15rem;
+}
+
+.logos .img-fluid {
+  max-height: 70px !important;
+}
+.panel-footer {
+  padding: 10px 15px;
+  background: #f0f0f0;
+  border-top: 1px solid black !important;
+  //@include border-bottom-radius(($panel-border-radius - 1));
+}
+
+/* Quote Section */
+.quote-section {
+  margin-top: 20px;
+  font-style: italic;
+  color: #555; /* Subtle gray for text */
+  border-left: 10px #beb6b6 solid;
+  border-radius: 10p;
+}
+.quote-section .quote-text {
+  font-size: 1.4em;
+  line-height: 1.6;
+}
+.quote-section .quote-author {
+  margin-top: 10px;
+  font-size: 1em;
+  font-weight: bold;
+  color: #333;
+}
 
 
 /* Top navigation bar */
@@ -40,11 +119,7 @@ pubtit {
 firstp {
 }
 
-.container-fluid {
-  margin-right: auto;
-  margin-left: auto;
-  max-width: 1000px; /* or 950px */
-}
+
 
 /* Home, News */
 #newsid p {
@@ -59,12 +134,14 @@ firstp {
 	margin-top: 6px;
 	margin-bottom: 6px;
 }
-
+.teampic img {
+  border-radius: 100%;
+}
 /* Team & Publications */
-#gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
-#homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
-#picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
-#gridid .row { margin-bottom: 24px; }
+//#gridid img { margin: 16px 22px 6px 0; box-shadow: 2px 2px 5px #888888 }
+//#homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
+//#picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
+//#gridid .row { margin-bottom: 24px; }
 
 
 /* Grid overrides */

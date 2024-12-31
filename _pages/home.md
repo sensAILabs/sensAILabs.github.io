@@ -1,78 +1,133 @@
 ---
-title: "Allan Lab - Home"
+title: "SenseAILab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "SenseaiLab at the University of Toronto."
 sitemap: false
 permalink: /
 ---
+<style markdown="0">
+    /* Hide carousel controls but still allow drag */
+     .carousel-control {
+        display: none;
+    }
 
-**News: Our group will move to the University of Munich (LMU)!** During the next two years, we will build up a "Lehrstuhl" (chair) at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
-More details to follow.
+     {
+        overflow: hidden;
+    }
 
+    .carousel-inner {
+        display: flex;
+    }
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
+     .carousel-inner .item {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    /* Ensure the images are responsive and properly sized */
+    .carousel-inner img {
+        width: 100%;
+        height: auto;
+        /*border-radius: 0 !important;*/
+    }
+         .carousel-item img {
+
+        border-radius: 2px !important;
+    }
+</style>
+
+<div markdown="0" id="carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="4000" data-bs-pause="hover">
     <!-- Menu -->
     <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
-        <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
+        {% for slide in site.data.sliders.mainSlider %}
+            <li data-bs-target="#carousel" data-bs-slide-to="{{ forloop.index0 }}"
+                {% if forloop.first %}class="active"{% endif %}></li>
+        {% endfor %}
     </ol>
 
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/QPI_Rh.jpg" alt="Slide 1" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SmartTipSide.jpg" alt="Slide 2" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 3" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lab.jpg" alt="Slide 4" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Fig_Science_Web.jpg" alt="Slide 5" />
-        </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
-        </div>
+    <div class="carousel-inner" role="listbox" markdown="0">
+        {% for slide in site.data.sliders.mainSlider %}
+            <div class="carousel-item {% if forloop.first %}active{% endif %}">
+                <img src="{{ slide.image }}" alt="{{ slide.title }}" class="d-block w-100">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>{{ slide.title }}</h5>
+                    <p>{{ slide.description }}</p>
+                </div>
+            </div>
+        {% endfor %}
     </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+
+    <button class="carousel-control-prev" type="button" data-bs-target="#carousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
 </div>
 
+<hr class="quote-divider" markdown="0">
 
-We are a dynamic research group, at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl) and soon at [LMU](https://www.physik.lmu.de/en/index.html). Our aim is to explore and understand quantum materials, including strange metals, high-temperature superconductors, and quantum critical electron matter. To this end, we develop new quantum sensing and quantum imaging instrumentation to get the key quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the scientific questions we deem most important (see [Research](research)). 
+<div class="quote-section text-center" markdown="0">
+    <blockquote class="blockquote">
+        <p>“When I want to understand what is happening today or try to decide what will happen tomorrow, I look back.”</p>
+        <footer>– Omar Khayyam (Mathematician, Philosopher)</footer>
+    </blockquote>
+</div>
 
+<hr class="quote-divider" markdown="0">
 
-We are very much looking forward to being part of [LMU physics](https://www.physik.lmu.de/en/index.html)! We will build up our instruments right in the center of the city, in the “Sommerfeldkeller”, where Sommerfeld himself worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials.
+<div class="main-back" markdown="0">
+    <div class="row">
+        <div class="col-lg-1 col-md-1 col-sm-0"></div>
+        <div class="col-lg-10 col-md-10 col-sm-12">
+            <p>
+                Our research commits to innovative, responsibly AI-driven health systems powered by ubiquitous
+                computing. We look back at the data collected from our prototype devices to make sense of past
+                events and anticipate future developments for the benefit of public health.
+            </p>
+            <p class="text-left">
+                <strong>We are looking for passionate new PhD students, Postdocs, and Master students to join the team</strong>
+                <a href="/vacancies">(more info)</a>!
+            </p>
+        </div>
+    </div>
+</div>
 
-Our move to LMU will likely start around Summer 2024, depending on the state of renovations. 
+<hr class="quote-divider" markdown="0"/>
 
-Currently, we are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). 
+## Supporters and Collaborators
 
-We are grateful for funding from Leiden University, [LMU ](https://www.lmu.de) [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting and consolidator grants](https://erc.europa.eu/funding/starting-grants).
+<div class="container logos" style="margin-top: 1vw" markdown="0">
+    <div class="row text-center">
+        <!-- Logo 1 -->
+        <div class="col-xs-12 col-sm-4 col-md-3 col-lg-3 " style="padding: 10px;">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/support/UMassAmherst.png" class="img-fluid" alt="UMass Amherst">
+        </div>
+        <!-- Logo 2 -->
+        <div class="col-xs-12 col-sm-4 col-md-3 col-lg-3" style="padding: 10px;">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/support/ihpme.svg" class="img-fluid" alt="IHPME">
+        </div>
+        <!-- Logo 3 -->
+        <div class="col-xs-12 col-sm-4 col-md-3 col-lg-3" style="padding: 10px;">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/support/ihpme.svg" class="img-fluid" alt="IHPME">
+        </div>
+        <div class="col-xs-12 col-sm-4 col-md-3 col-lg-3" style="padding: 10px;">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/support/ihpme.svg" class="img-fluid" alt="IHPME">
+        </div>
+    </div>
+</div>
 
- **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+<hr class="quote-divider">
 
+## News Update
 
-
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
-</figure>
+<ul style="padding: 0 10vh" class="wp-block-list">
+    {% for news in site.data.news %}
+        {% if forloop.index0 < 5 %}
+            <li>{{ news.headline }}<br><em>– {{ news.date }} </em></li>
+        {% endif %}
+    {% endfor %}
+    <li><a href=""> More ... </a></li>
+</ul>

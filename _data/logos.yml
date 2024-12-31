@@ -1,0 +1,10 @@
+logos:
+  - name: "Company A"
+    image: "/assets/images/logo1.png"
+    url: "/images/support/ihpme.svg"
+  - name: "Company B"
+    image: "/images/support/UMassAmherst.png"
+    url: "https://www.companyb.com"
+  - name: "Company C"
+    image: "/images/support/ihpme.svg"
+    url: "https://www.companyc.com"

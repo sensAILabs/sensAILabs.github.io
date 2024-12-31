@@ -1,0 +1,5 @@
+mainSlider:
+  - image: "/images/pubpic/setup.jpg"
+    title: "title"
+  - image: "/images/pubpic/setup.jpg"
+    title: "title2"
