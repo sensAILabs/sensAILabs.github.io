@@ -5,22 +5,16 @@ cmZ:
     page: https://nczakaria.github.io/
 
 cmtextZ:
-    name: "Camellia Zakaria"
+    name: "Aryan Sa"
     not_primary: true
     photo: /images/teampic/camellia.jpg
     info: Principal Investigator
     page: https://nczakaria.github.io/
 
-cextZ:
-    name: "Camellia Zakaria"
-    is_alumni: true
-    after_position: "Google"
-    photo: /images/teampic/camellia.jpg
-    info: Principal Investigator
-    page: https://nczakaria.github.io/
+
 
 key2:
-    name: "Camellia Zakaria2"
+    name: "Erica"
     photo: /images/teampic/ericazhang.jpg
     info: Researcher (MSc Biostatistics)
     page: https://nczakaria.github.io/

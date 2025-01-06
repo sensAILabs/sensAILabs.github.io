@@ -129,5 +129,5 @@ permalink: /
             <li>{{ news.headline }}<br><em>– {{ news.date }} </em></li>
         {% endif %}
     {% endfor %}
-    <li><a href=""> More ... </a></li>
+    <li><a href="/news"> More ... </a></li>
 </ul>
