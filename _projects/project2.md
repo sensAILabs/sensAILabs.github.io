@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nightly Notions"
-members: [cextZ,key2]
+members: [cextZ,key2,jasper]
 excerpt_separator: <!--more-->
 ---
 
