@@ -4,20 +4,53 @@ cmZ:
     info: Principal Investigator
     page: https://nczakaria.github.io/
 
-cmtextZ:
-    name: "Aryan Sa"
-    not_primary: true
-    photo: /images/teampic/camellia.jpg
-    info: Principal Investigator
-    page: https://nczakaria.github.io/
+AryanSa:
+    name: "Aryan Sadeghi"
+#    not_primary: true
+    photo: /images/teampic/aryan.jpg
+    info: MSc Student (Artificial intelligence in HSR)
+    page: https://www.linkedin.com/in/aryan-sadeghi-269b82b0/
 
-
+jasper:
+    name: "Jasper Zhang"
+    photo: /images/teampic/jasper.jpg
+    after_position: "University of Toronto"
+    info: PhD Student (Biostatistics)
+    page: "https://jasperzhang.com/"
 
 key2:
-    name: "Erica"
+    name: "Erica Zhang"
     photo: /images/teampic/ericazhang.jpg
+    is_alumni: true
+    after_position: "University of Toronto"
     info: Researcher (MSc Biostatistics)
-    page: https://nczakaria.github.io/
+    page: ""
+
+Tae:
+    name: "Tae-Kyong Kim"
+    photo: ""
+    is_alumni: true
+    after_position: "University of Toronto"
+    info: BSc Student (Eng. Sci.)
+    page: "https://www.linkedin.com/in/tae-kim-b123a4296/"
+
+Vanessa:
+    name: "Vanessa Liao"
+    photo: "/images/teampic/difpic.jpg"
+    info: MSc Student (Biostatistics)
+    page: "#"
+
+JasonDang:
+    name: "Jason Dang"
+    photo: "/images/teampic/difpic.jpg"
+    info: MSc Student (Biostatistics)
+    page: "#"
+
+GeraldWang:
+    name: "Gerald Wang"
+    photo: "/images/teampic/geraldwang-2166421348-e1727800048650.jpg"
+    info: BSc Student (Comp. Sci.)
+    page: "https://github.com/geraldyywang"
 
 key3:
     name: "Syed Muhammad"

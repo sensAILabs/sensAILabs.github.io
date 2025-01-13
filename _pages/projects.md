@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Projects"
+title: "SenseAI Lab - Projects"
 layout: gridlay
-excerpt: "Allan Lab -- Projects."
+excerpt: "SenseAI Lab -- Projects."
 sitemap: false
 permalink: /projects/
 ---
