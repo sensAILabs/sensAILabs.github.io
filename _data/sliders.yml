@@ -1,5 +1,3 @@
 mainSlider:
-  - image: "/images/slider/DSC_0366.JPG"
-    title: "title"
-  - image: "/images/slider/DSC_0636.jpg"
-    title: "title2"
+  - image: "/images/slider/sensai_main.jpg"
+    title: "SenseAI"

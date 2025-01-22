@@ -105,7 +105,7 @@ permalink: /
 ## Supporters and Collaborators
 
 <div class="container logos" style="margin-top: 1vw" markdown="0">
-    <div class="row text-center">
+    <div class="row text-center justify-content-center">
         <!-- Logo 1 -->
         {% for logo in site.data.logos %}
             <div class="col-xs-12 col-sm-4 col-md-3 col-lg-3 " style="padding: 10px;">

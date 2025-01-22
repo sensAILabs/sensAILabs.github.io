@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BALANCE"
-members: [cextZ,key2]
+members: [cmZ,jasper,Vanessa,Seyd,JavedMostafa,KarimKeshavjee,AyaMitani]
 excerpt_separator: <!--more-->
 ---
 

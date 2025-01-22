@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Pitch Black"
-members: [key3,key2,AryanSa]
-opening : true
+members: [cmZ,AryanSa,MarianneH,Jude,brc]
 excerpt_separator: <!--more-->
 ---
 

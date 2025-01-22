@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nightly Notions"
-members: [cextZ,key2]
+members: [cmZ,lisa,benKim,renzo,RKB,VPN,VenkatBhat,AzadeYad]
 opening: true
 excerpt_separator: <!--more-->
 ---
