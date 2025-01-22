@@ -7,19 +7,20 @@ permalink: /
 ---
 <style markdown="0">
     /* Hide carousel controls but still allow drag */
-     .carousel-control {
+    .carousel-control {
         display: none;
     }
 
-     {
-        overflow: hidden;
+    {
+        overflow: hidden
+    ;
     }
 
     .carousel-inner {
         display: flex;
     }
 
-     .carousel-inner .item {
+    .carousel-inner .item {
         display: flex;
         justify-content: space-between;
     }
@@ -30,13 +31,15 @@ permalink: /
         height: auto;
         /*border-radius: 0 !important;*/
     }
-         .carousel-item img {
+
+    .carousel-item img {
 
         border-radius: 2px !important;
     }
 </style>
 
-<div markdown="0" id="carousel" class="carousel slide" data-bs-ride="carousel" data-bs-interval="4000" data-bs-pause="hover">
+<div style="padding:0 4vw" markdown="0" id="carousel" class="carousel slide" data-bs-ride="carousel"
+     data-bs-interval="4000" data-bs-pause="hover">
     <!-- Menu -->
     <ol class="carousel-indicators">
         {% for slide in site.data.sliders.mainSlider %}
@@ -47,8 +50,8 @@ permalink: /
 
     <div class="carousel-inner" role="listbox" markdown="0">
         {% for slide in site.data.sliders.mainSlider %}
-            <div class="carousel-item {% if forloop.first %}active{% endif %}">
-                <img src="{{ slide.image }}" alt="{{ slide.title }}" class="d-block w-100">
+            <div style="height: 55vh" class="carousel-item {% if forloop.first %}active{% endif %}">
+                <img src="{{ slide.image }}" alt="{{ slide.title }}" class="d-block w-100 h-100">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>{{ slide.title }}</h5>
                     <p>{{ slide.description }}</p>
@@ -71,7 +74,8 @@ permalink: /
 
 <div class="quote-section text-center" markdown="0">
     <blockquote class="blockquote">
-        <p>“When I want to understand what is happening today or try to decide what will happen tomorrow, I look back.”</p>
+        <p>“When I want to understand what is happening today or try to decide what will happen tomorrow, I look
+            back.”</p>
         <footer>– Omar Khayyam (Mathematician, Philosopher)</footer>
     </blockquote>
 </div>
@@ -88,7 +92,8 @@ permalink: /
                 events and anticipate future developments for the benefit of public health.
             </p>
             <p class="text-left">
-                <strong>We are looking for passionate new PhD students, Postdocs, and Master students to join the team</strong>
+                <strong>We are looking for passionate new PhD students, Postdocs, and Master students to join the
+                    team</strong>
                 <a href="/vacancies">(more info)</a>!
             </p>
         </div>
@@ -102,20 +107,15 @@ permalink: /
 <div class="container logos" style="margin-top: 1vw" markdown="0">
     <div class="row text-center">
         <!-- Logo 1 -->
-        <div class="col-xs-12 col-sm-4 col-md-3 col-lg-3 " style="padding: 10px;">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/support/UMassAmherst.png" class="img-fluid" alt="UMass Amherst">
-        </div>
-        <!-- Logo 2 -->
-        <div class="col-xs-12 col-sm-4 col-md-3 col-lg-3" style="padding: 10px;">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/support/ihpme.svg" class="img-fluid" alt="IHPME">
-        </div>
-        <!-- Logo 3 -->
-        <div class="col-xs-12 col-sm-4 col-md-3 col-lg-3" style="padding: 10px;">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/support/ihpme.svg" class="img-fluid" alt="IHPME">
-        </div>
-        <div class="col-xs-12 col-sm-4 col-md-3 col-lg-3" style="padding: 10px;">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/support/ihpme.svg" class="img-fluid" alt="IHPME">
-        </div>
+        {% for logo in site.data.logos %}
+            <div class="col-xs-12 col-sm-4 col-md-3 col-lg-3 " style="padding: 10px;">
+            <a target="_blank" href="{{ logo.url }}">    <img src="{{ logo.image }}" class="img-fluid"
+                     alt="{{ logo.name }}">
+                </a>
+            </div>
+        {% endfor %}
+
+
     </div>
 </div>
 

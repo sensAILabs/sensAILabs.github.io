@@ -6,7 +6,7 @@ cmZ:
 
 AryanSa:
     name: "Aryan Sadeghi"
-#    not_primary: true
+    not_primary: true
     photo: /images/teampic/aryan.jpg
     info: MSc Student (Artificial intelligence in HSR)
     page: https://www.linkedin.com/in/aryan-sadeghi-269b82b0/

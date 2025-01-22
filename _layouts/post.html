@@ -1,18 +1,48 @@
 ---
 layout: default
 ---
-<div >
+<div>
 
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
-  <hr>
-  <h4> Members </h4>
-      {% for member in page.members %}
-        <h5> <a style="color: black" href="{{ site.data.team_members[member].page }}"> {{ site.data.team_members[member].name }} </a>  </h5>
-  {% endfor %}
+    <div class="container">
+        <div class="row row-cols-lg-3 row-cols-md-2 row-cols-sm-1 row-cols-xs-auto justify-content-center">
+            {% for image in site.static_files %}
+                {% assign new_var = '/images/projects/' | append: page.title | append: '/' %}
+                {% if image.path contains new_var %}
+                    <div class="col mb-4">
+                    <img class="w-100 h-100" src="{{ site.baseurl }}{{ image.path }}" alt="image"/>
+                        </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+    <div class="post-content" itemprop="articleBody">
+        {{ content }}
+    </div>
+    <hr>
+    {% assign has_external = false %}
+    <h4> Members </h4>
+    {% for member in page.members %}
+        {% if site.data.team_members[member].not_primary %}
+            {% assign has_external = true %}
+            {% continue %}
+        {% endif %}
+        <h5><a style="color: black"
+               href="{{ site.data.team_members[member].page }}"> {{ site.data.team_members[member].name }} </a></h5>
+    {% endfor %}
+    {% if has_external %}
+        <h4> External Collaborators </h4>
+        {% for member in page.members %}
+            {% if site.data.team_members[member].not_primary %}
+
+
+                <h5><a style="color: black"
+                       href="{{ site.data.team_members[member].page }}"> {{ site.data.team_members[member].name }} </a>
+                </h5>
+            {% endif %}
+        {% endfor %}
+    {% endif %}
 
 </div>
 
