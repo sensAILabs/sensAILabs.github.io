@@ -1,7 +1,7 @@
 ---
-title: "SenseAI Lab - Publications"
+title: "SensAILabs - Publications"
 layout: gridlay
-excerpt: "SenseAI Lab -- Publications"
+excerpt: "SensAILabs @ UofT"
 sitemap: false
 permalink: /publications/
 ---
