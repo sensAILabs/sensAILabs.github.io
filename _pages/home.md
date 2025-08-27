@@ -1,7 +1,7 @@
 ---
-title: "SenseAILab - Home"
+title: "SensAILabs - Home"
 layout: homelay
-excerpt: "SenseaiLab at the University of Toronto."
+excerpt: "SensAILabs @ UofT"
 sitemap: false
 permalink: /
 ---
@@ -102,6 +102,17 @@ permalink: /
 
 <hr class="quote-divider" markdown="0"/>
 
+## News Update
+
+<ul style="padding: 0 10vh" class="wp-block-list">
+    {% for news in site.data.news %}
+        {% if forloop.index0 < 5 %}
+            <li>{{ news.headline }}<br><em>– {{ news.date }} </em></li>
+        {% endif %}
+    {% endfor %}
+    <li><a href="/news"> More ... </a></li>
+</ul>
+
 ## Supporters and Collaborators
 
 <div class="container logos" style="margin-top: 1vw" markdown="0">
@@ -120,14 +131,3 @@ permalink: /
 </div>
 
 <hr class="quote-divider">
-
-## News Update
-
-<ul style="padding: 0 10vh" class="wp-block-list">
-    {% for news in site.data.news %}
-        {% if forloop.index0 < 5 %}
-            <li>{{ news.headline }}<br><em>– {{ news.date }} </em></li>
-        {% endif %}
-    {% endfor %}
-    <li><a href="/news"> More ... </a></li>
-</ul>
