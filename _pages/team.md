@@ -1,7 +1,7 @@
 ---
-title: "SenseAI Lab - Team"
+title: "SensAILabs - Team"
 layout: gridlay
-excerpt: "SenseAI Lab: Team members"
+excerpt: "SensAILabs @ UofT"
 sitemap: false
 permalink: /team/
 ---
