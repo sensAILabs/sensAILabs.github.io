@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "SenseAI Lab at Leiden University."
+excerpt: "SensAILabs @ UofT"
 sitemap: false
 permalink: /news/
 ---
