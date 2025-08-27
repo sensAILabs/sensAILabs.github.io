@@ -1,31 +1,26 @@
-2024:
-  - title: "AeroSense: Sensing Aerosol Emissions from Indoor Human Activities"
-    authors: Chagglani, B., Zakaria, C., Peltier, R., Gummeson, J., & Shenoy, P.
-    periodical: "In ACM Symposium on Cloud Computing (SoCC) 2024 "
+Paper Publication:
+  - title: "The Prevalence and Predictors of Digital Proxy Behavior in the United States: Cross-Sectional Survey Study"
+    authors: Foong, P. S., Zakaria, C., Pakianathan, P., Phua, A. I. H., & Koh, G. C.
+    periodical: "Journal of Medical Internet Research, 27, e69806 (2025)"
     links:
-      - PDF: https://sites.google.com/umass.edu/aerosense/
+      - Site: https://www.jmir.org/2025/1/e69806/
+      
+  - title: "Proxy Medical Decision-Making: National Survey"
+    authors: Phua A., Zakaria, C., Pakianathan PVS., Chan N., Lim MJR., Liew TM., Koh GCH., and Foong PS.
+    periodical: "BMJ Supportive & Palliative Care (2024)"
+    links:
+      - PDF: https://spcare.bmj.com/content/bmjspcare/early/2024/12/05/spcare-2024-005179.full.pdf
 
-      - Code: https://sites.google.com/umass.edu/aerosense/
-  - title: "AeroSense: Sensing Aerosol Emissions from Indoor Human Activities"
-    authors: Chagglani, B., Zakaria, C., Peltier, R., Gummeson, J., & Shenoy, P.
-    periodical: "In ACM Symposium on Cloud Computing (SoCC) 2020 "
-    links:
-      - PDF: https://sites.google.com/umass.edu/aerosense/
-      - Site: https://sites.google.com/umass.edu/aerosense/
-      - Code: https://sites.google.com/umass.edu/aerosense/
+Poster Presentation:
+  - title: "Seeing Black: Employing Computer Vision and Machine Learning Techniques to Estimate Black Carbon Emissions from Traffic Activities​"
+    authors: Sadeghi, A., Zakaria, C.
+    periodical: "Climate Positive Energy Research Day (2025)"
 
-2023:
-  - title: "AeroSense: Sensing Aerosol Emissions from Indoor Human Activities"
-    authors: Chagglani, B., Zakaria, C., Peltier, R., Gummeson, J., & Shenoy, P.
-    periodical: "In ACM Symposium on Cloud Computing (SoCC) 2024 "
-    links:
-      - PDF: https://sites.google.com/umass.edu/aerosense/
-
-      - Code: https://sites.google.com/umass.edu/aerosense/
-  - title: "AeroSense: Sensing Aerosol Emissions from Indoor Human Activities"
-    authors: Chagglani, B., Zakaria, C., Peltier, R., Gummeson, J., & Shenoy, P.
-    periodical: "In ACM Symposium on Cloud Computing (SoCC) 2020 "
-    links:
-      - PDF: https://sites.google.com/umass.edu/aerosense/
-      - Site: https://sites.google.com/umass.edu/aerosense/
-      - Code: https://sites.google.com/umass.edu/aerosense/
+#Past:
+#  - title: "AeroSense: Sensing Aerosol Emissions from Indoor Human Activities"
+#    authors: Chagglani, B., Zakaria, C., Peltier, R., Gummeson, J., & Shenoy, P.
+#    periodical: "In ACM Symposium on Cloud Computing (SoCC) 2020 "
+#    links:
+#      - PDF: https://sites.google.com/umass.edu/aerosense/
+#      - Site: https://sites.google.com/umass.edu/aerosense/
+#      - Code: https://sites.google.com/umass.edu/aerosense/
