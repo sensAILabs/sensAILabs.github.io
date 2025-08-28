@@ -22,24 +22,22 @@ layout: default
     </div>
     <hr>
     {% assign has_external = false %}
-    <h4> Members </h4>
+    <h5> Members </h5>
     {% for member in page.members %}
         {% if site.data.team_members[member].not_primary %}
             {% assign has_external = true %}
             {% continue %}
         {% endif %}
-        <h5><a style="color: black"
-               href="{{ site.data.team_members[member].page }}"> {{ site.data.team_members[member].name }} </a></h5>
+        <h6><a style="color: black"
+               href="{{ site.data.team_members[member].page }}"> {{ site.data.team_members[member].name }} </a></h6>
     {% endfor %}
     {% if has_external %}
-        <h4> Collaborators </h4>
-        {% for member in page.members %}
-            {% if site.data.team_members[member].not_primary %}
-
-
-                <h5><a style="color: black"
-                       href="{{ site.data.team_members[member].page }}"> {{ site.data.team_members[member].name }} </a> <small>({{ site.data.team_members[member].info }})</small>
-                </h5>
+    <h5> Collaborators </h5>
+    {% for member in page.members %}
+        {% if site.data.team_members[member].not_primary %}
+            <h6><a style="color: black"
+                   href="{{ site.data.team_members[member].page }}"> {{ site.data.team_members[member].name }} </a> <small>({{ site.data.team_members[member].info }})</small>
+            </h6>
             {% endif %}
         {% endfor %}
     {% endif %}
