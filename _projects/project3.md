@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "BALANCE"
+title:  "Human-Centered AI in Healthcare: From Insights to Practice"
 members: [SMuhammad,LWei,VLiao,JZhang,JDang,JMostafa,KChoo,KKeshavjee,AMitani]
 excerpt_separator: <!--more-->
 summary: "This project explores combining predictive modeling with human-centered system design to develop systems that align AI-driven insights with user needs and expertise."
