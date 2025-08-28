@@ -42,7 +42,7 @@ permalink: /team/
 ## Formers
 <div class="row">
 
-<div class="col-sm-4">
+<div>
 
 {% for member in site.data.team_members %}
     {% if member[1].is_alumni  %}
