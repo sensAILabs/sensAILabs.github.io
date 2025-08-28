@@ -1,156 +1,164 @@
-cmZ:
+CZakaria:
     name: "Camellia Zakaria"
-    photo: /images/teampic/camellia.jpg
+    photo: /images/teampic/cZakaria.jpg
     info: Principal Investigator
     page: https://nczakaria.github.io/
 
-AryanSa:
+ASadeghi:
     name: "Aryan Sadeghi"
-    photo: /images/teampic/aryan.jpg
-    info: MSc Student (Artificial intelligence in HSR)
+    photo: /images/teampic/aSadeghi.jpg
+    info: MSc Student (AI in HSR)
     page: https://www.linkedin.com/in/aryan-sadeghi-269b82b0/
 
-jasper:
+JZhang:
     name: "Jasper Zhang"
-    photo: /images/teampic/jasper.jpg
+    photo: /images/teampic/jZhang.jpg
     info: PhD Student (Biostatistics)
     page: "https://jasperzhang.com/"
 
-JasonDang:
+JDang:
     name: "Jason Dang"
-    photo: "/images/teampic/difpic.png"
+    photo: "/images/teampic/jDang.png"
     info: MSc Student (Biostatistics)
     page: "#"
 
-Vanessa:
+VLiao:
     name: "Vanessa Liao"
     photo: "/images/teampic/difpic.png"
     info: MSc Student (Biostatistics)
     page: "#"
 
-Seyd:
+SMuhammad:
     name: "Syed Muhammad"
-    photo: /images/teampic/syedmuhammad.jpeg
-    info: MSc Student (Artificial intelligence in HSR)
+    photo: /images/teampic/sMuhammad.jpeg
+    info: MSc Student (AI in HSR)
     page: https://www.linkedin.com/in/syed-muhammad-ibne-zulfiker/
 
-GeraldWang:
+LWang:
+    name: "Lisa Wang"
+    photo: /images/teampic/lWang.jpeg
+    info: MSc Student (Biostatistics)
+    page: https://ca.linkedin.com/in/lisa-wang-a6b028198
+
+GWang:
     name: "Gerald Wang"
-    photo: "/images/teampic/geraldwang-2166421348-e1727800048650.jpg"
+    photo: "/images/teampic/gWang.jpg"
     info: BSc Student (Comp. Sci.)
     page: "https://github.com/geraldyywang"
 
-
-ericaZhang:
+# Past
+EZhang:
     name: "Erica Zhang"
-    photo: /images/teampic/ericazhang.jpg
+    photo: ""
     is_alumni: true
-    after_position: "University of Toronto"
-    info: Researcher (MSc Biostatistics)
+    after_position: "Researcher (MSc Biostatistics), University of Toronto"
+    info: 
     page: ""
 
-Tae:
+TKyong:
     name: "Tae-Kyong Kim"
     photo: ""
     is_alumni: true
+    after_position: "BSc Student (Eng. Sci.), University of Toronto"
+    info: 
+    page: ""
 
-    after_position: "University of Toronto"
-    info: BSc Student (Eng. Sci.)
-    page: "https://www.linkedin.com/in/tae-kim-b123a4296/"
-
-
-MarianneH:
-    name: "Marianne Hatzopoulou"
-    photo: "/images/teampic/Marianne-Hatzopoulou.jpg"
+# Internal Collaborators
+MHatzopoulou:
+    name: "Prof. Marianne Hatzopoulou"
+    photo: "/images/teampic/mHatzopoulou.jpg"
     not_primary: true
-    info: UofT
+    info: Department of Civil & Mineral Engineering, UofT
     page: "https://civmin.utoronto.ca/home/about-us/directory/professors/marianne-hatzopoulou/"
 
-
-Jude:
-    name: "Jude Kong"
-    photo: "/images/teampic/Jude-Kong.jpg"
+JKong:
+    name: "Prof. Jude Kong"
+    photo: "/images/teampic/jKong.jpg"
     not_primary: true
-    info: UofT
+    info: DLSPH, UofT
     page: "https://www.dlsph.utoronto.ca/faculty-profile/kong-jude/"
 
-brc:
-    name: "Brice Batomen Kuimi "
-    photo: "/images/teampic/brc.jpeg"
+BKuimi:
+    name: "Prof. Brice Batomen Kuimi "
+    photo: "/images/teampic/bKuimi.jpeg"
     not_primary: true
-    info: UofT
+    info: DLSPH, UofT
     page: "https://www.dlsph.utoronto.ca/faculty-profile/batomen-brice/"
 
-
-lisa:
-    name: "Lisa Wang"
-    photo: /images/teampic/lisa.jpeg
-    info: BSc Student (Statistics, Econs)
-    page: https://ca.linkedin.com/in/lisa-wang-a6b028198
-
-
-benKim:
-    name: "Ben Kim"
-    not_primary: true
-    photo: /images/teampic/benKim.jpeg
-    info: Ted Rogers Centre for Heart Research
-    page: https://www.linkedin.com/in/benybkim/?originalSubdomain=ca
-
-renzo:
-    name: "Renzo Calderon"
-    photo: /images/teampic/renzo.jpg
-    info: UofT, IHPME
+RCalderon:
+    name: "Dr. Renzo Calderon"
+    photo: /images/teampic/rCalderon.jpg
+    info: Postdoctoral Fellow, IHPME, UofT
     not_primary: true
     page: https://ihpme.utoronto.ca/postdoc-profile/calderon-anyosa-renzo-jose-carlos/
 
-RKB:
-    name: "Prof. Rajesh Krishna BALAN"
-    photo: /images/teampic/Rajesh-Krishna-Balan.jpg
-    info: Singapore Management University
-    not_primary: true
-    page: https://computing.smu.edu.sg/faculty/profile/591/rajesh-krishna-balan
-
-
-VPN:
-    name: "Prof. VP Nguyen"
-    photo: /images/teampic/vpnguyen.jpeg
-    info: UMass Amherst
-    not_primary: true
-    page: https://www.cics.umass.edu/about/directory/vp-nguyen
-
-VenkatBhat:
+VBhat:
     name: "Prof. Venkat Bhat"
-    photo: /images/teampic/pVB.jpeg
-    info: st michael's hospital
+    photo: /images/teampic/vBhat.jpeg
+    info: Staff Psychiatrist & Clinician Scientist, St. Michael's Hospital
     not_primary: true
     page: https://research.unityhealth.to/profiles/venkat-bhat/
 
-
-AzadeYad:
-    name: "Prof. Azadeh_Yadollahi"
-    photo: /images/teampic/Azadeh_Yadollahi.jpg
-    info: UHN
+AYadollahi:
+    name: "Prof. Azadeh Yadollahi"
+    photo: /images/teampic/aYadollahi.jpg
+    info: Senior Scientist, KITE
     not_primary: true
     page: https://www.uhnresearch.ca/researcher/azadeh-yadollahi
 
-
-JavedMostafa:
+JMostafa:
     name: "Prof. Javed Mostafa"
-    photo: /images/teampic/javed_hoto.jpg
-    info: Ischool, UofT
+    photo: /images/teampic/jMostafa.jpg
+    info: Faculty of Information, UofT
     not_primary: true
     page: https://ischool.utoronto.ca/faculty-profile/javed-mostafa/
 
-KarimKeshavjee :
-    name: "Karim Keshavjee"
-    photo: https://ihpme.utoronto.ca/wp-content/uploads/2022/08/Karim_sm-660x440.jpg
+KKeshavjee :
+    name: "Prof. Karim Keshavjee"
+    photo: /images/teampic/kKeshavjee.jpg
     info: IHPME, UofT
     not_primary: true
     page: https://ihpme.utoronto.ca/faculty-profile/karim-keshavjee/
 
-AyaMitani :
+AMitani :
     name: "Prof. Aya Mitani"
-    photo: https://www.dlsph.utoronto.ca/wp-content/uploads/2020/08/mitaniaya_mscaward_ae-150x150.jpg
-    info: Biostatistics, UofT
+    photo: /images/teampic/aMitani.jpeg
+    info: DLSPH, UofT
     not_primary: true
     page: https://www.dlsph.utoronto.ca/faculty-profile/ayamitani/
+
+# External Collaborators
+JXu:
+    name: "Prof. Junshi Xu"
+    photo: "/images/teampic/mHatzopoulou.jpg"
+    not_primary: true
+    info: Department of Geography, University of Hong Kong, Hong Kong
+    page: "https://civmin.utoronto.ca/home/about-us/directory/professors/marianne-hatzopoulou/"
+
+BKim:
+    name: "Dr. Ben Kim"
+    not_primary: true
+    photo: /images/teampic/bKim.jpeg
+    info: Scientific Associate, University Health Network, ON, CA
+    page: https://www.linkedin.com/in/benybkim/?originalSubdomain=ca
+
+VPNguyen:
+    name: "Prof. VP Nguyen"
+    photo: /images/teampic/vpNguyen.jpeg
+    info: Manning College of Information and Computer Sciences, UMASS, MA, USA
+    not_primary: true
+    page: https://www.cics.umass.edu/about/directory/vp-nguyen
+
+KChoo:
+    name: "Prof. Kenny Choo"
+    photo: /images/teampic/kChoo.png
+    info: Information Systems Technology and Design, SUTD, Singapore 
+    not_primary: true
+    page: https://kennychoo.net
+
+RBalan:
+    name: "Prof. Rajesh Krishna Balan"
+    photo: /images/teampic/rBalan.jpg
+    info: School of Computing and Information Systems, SMU, Singapore
+    not_primary: true
+    page: https://computing.smu.edu.sg/faculty/profile/591/rajesh-krishna-balan
