@@ -89,8 +89,8 @@ permalink: /
                 Our research commits to innovative, responsibly AI-driven health systems powered by ubiquitous computing. We look back at the data collected from our prototype devices to make sense of past events and anticipate future developments for the benefit of public health.
             </p>
             <p class="text-left">
-                <strong>If you’re curious and driven, we’d love to have you join our team and tackle these challenges.</strong>
-                <a href="/projects">(View Projects)</a>!
+                <strong>If you’re curious and driven, we’d love to have you join our team and tackle these challenges!</strong>
+                <a href="/projects">(View Projects)</a>
             </p>
         </div>
     </div>

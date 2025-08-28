@@ -4,6 +4,7 @@ title:  "Nightly Notions"
 members: [cmZ,lisa,benKim,renzo,RKB,VPN,VenkatBhat,AzadeYad]
 opening: true
 excerpt_separator: <!--more-->
+summary: "This project combines traffic data analysis with advanced sensing and detection approaches to estimate vehicle emission, enhance road safety, and reveal hidden environmental and health risks."
 ---
 
 We are currently undertaking several projects that explore sleep disorders across diverse

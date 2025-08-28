@@ -6,13 +6,8 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
+# Who Are We?
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-
-## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -47,18 +42,28 @@ permalink: /team/
 
 ## Formers
 <div class="row">
-
-<div class="col-sm-4 clearfix">
-
-{% for member in site.data.team_members %}
-    {% if member[1].is_alumni  %}
-{{ member[1].name }} <br>
-    <em>- {{ member[1].after_position }}</em>
-    {% endif %}
-{% endfor %}
-</div>
-
-
+  <div class="col-12">
+    <div class="table-responsive">
+      <table class="table table-bordered table-hover align-middle">
+        <thead class="table-light">
+          <tr>
+            <th>Name</th>
+            <th>After Position</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for member in site.data.team_members %}
+            {% if member[1].is_alumni %}
+              <tr>
+                <td>{{ member[1].name }}</td>
+                <td><em>{{ member[1].after_position }}</em></td>
+              </tr>
+            {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
 </div>
 
 

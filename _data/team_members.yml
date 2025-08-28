@@ -49,7 +49,7 @@ VLiao:
 # Past
 GWang:
     name: "Gerald Wang"
-    photo: ""
+    photo: /images/teampic/gWang.jpg
     is_alumni: true
     after_position: "BSc Student (Comp. Sci.), University of Toronto"
     info: 
