@@ -10,6 +10,8 @@ Toronto faces some of the worst traffic congestion in the world. In 2023, drivin
 
 Among these pollutants, black carbon is particularly concerning. It is a short-lived climate pollutant that worsens respiratory health and accelerates near-term warming, yet we have little understanding of how much Torontonians inhale each day. Our project addresses this gap by using widely available traffic data to approximate black carbon exposure. Alongside this, we are pursuing innovations in sensing and detection technologies for road safety, exploring new ways to capture traffic flow, vehicle activity, and environmental conditions. Together, these approaches aim to create tools that inform not only congestion management and collision prevention but also the hidden health and environmental risks of city travel.
 
+**GitHub Repository:** \<to be updated\>
+
 **Skills and Expertise Involved**
 1. Key areas of work include:
 - Applied machine learning for prediction and pattern recognition
