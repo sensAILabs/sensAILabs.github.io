@@ -46,7 +46,7 @@ permalink: /team/
 
 {% for member in site.data.team_members %}
     {% if member[1].is_alumni  %}
-{{ member[1].name }} <br>
+{{ member[1].name }}
     <em>- {{ member[1].after_position }}</em>
     {% endif %}
 {% endfor %}
