@@ -1,5 +1,5 @@
 ---
-title: "News"
+title: "SensAILabs - News"
 layout: textlay
 excerpt: "SensAILabs @ UofT"
 sitemap: false

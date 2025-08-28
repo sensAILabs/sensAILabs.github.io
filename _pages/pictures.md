@@ -1,7 +1,7 @@
 ---
-title: "SenseAI Lab - Pictures"
+title: "SensAILabs - Pictures"
 layout: piclay
-excerpt: "SenseAI Lab -- Pictures"
+excerpt: "SensAILabs @ UofT"
 permalink: /pictures/
 ---
 

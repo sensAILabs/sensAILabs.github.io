@@ -87,13 +87,10 @@ permalink: /
         <div class="col-lg-1 col-md-1 col-sm-0"></div>
         <div class="col-lg-10 col-md-10 col-sm-12">
             <p>
-                Our research commits to innovative, responsibly AI-driven health systems powered by ubiquitous
-                computing. We look back at the data collected from our prototype devices to make sense of past
-                events and anticipate future developments for the benefit of public health.
+                Our research commits to innovative, responsibly AI-driven health systems powered by ubiquitous computing. We look back at the data collected from our prototype devices to make sense of past events and anticipate future developments for the benefit of public health.
             </p>
             <p class="text-left">
-                <strong>We are looking for passionate new PhD students, Postdocs, and Master students to join the
-                    team</strong>
+                <strong>We are looking for passionate new PhD students, Postdocs, and Master students to join the team</strong>
                 <a href="/vacancies">(more info)</a>!
             </p>
         </div>
@@ -113,7 +110,7 @@ permalink: /
     <li><a href="/news"> More ... </a></li>
 </ul>
 
-## Supporters and Collaborators
+## Funding Support
 
 <div class="container logos" style="margin-top: 1vw" markdown="0">
     <div class="row text-center justify-content-center">

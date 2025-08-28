@@ -1,7 +1,7 @@
 ---
-title: "SenseAI Lab - Projects"
+title: "SensAILabs - Projects"
 layout: gridlay
-excerpt: "SenseAI Lab -- Projects."
+excerpt: "SensAILabs @ UofT"
 sitemap: false
 permalink: /projects/
 ---
