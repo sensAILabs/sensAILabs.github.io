@@ -10,29 +10,17 @@ ASadeghi:
     info: MSc Student (AI in HSR)
     page: https://www.linkedin.com/in/aryan-sadeghi-269b82b0/
 
-JZhang:
-    name: "Jasper Zhang"
-    photo: /images/teampic/jZhang.jpg
-    info: PhD Student (Biostatistics)
-    page: "https://jasperzhang.com/"
-
-JDang:
-    name: "Jason Dang"
-    photo: "/images/teampic/jDang.png"
-    info: MSc Student (Biostatistics)
-    page: "#"
-
-VLiao:
-    name: "Vanessa Liao"
-    photo: "/images/teampic/difpic.png"
-    info: MSc Student (Biostatistics)
-    page: "#"
-
 SMuhammad:
     name: "Syed Muhammad"
     photo: /images/teampic/sMuhammad.jpeg
     info: MSc Student (AI in HSR)
     page: https://www.linkedin.com/in/syed-muhammad-ibne-zulfiker/
+
+JZhang:
+    name: "Jasper Zhang"
+    photo: /images/teampic/jZhang.jpg
+    info: PhD Student (Biostatistics)
+    page: https://jasperzhang.com/
 
 LWang:
     name: "Lisa Wang"
@@ -40,13 +28,33 @@ LWang:
     info: MSc Student (Biostatistics)
     page: https://ca.linkedin.com/in/lisa-wang-a6b028198
 
-GWang:
-    name: "Gerald Wang"
-    photo: "/images/teampic/gWang.jpg"
-    info: BSc Student (Comp. Sci.)
-    page: "https://github.com/geraldyywang"
+LWei:
+    name: "Landuo Wei"
+    photo: /images/teampic/lWei.jpg
+    info: MSc Student (Faculty of Information)
+    page: https://cynthiawei020831.wixstudio.com/landuo_like_design
+
+JDang:
+    name: "Jason Dang"
+    photo: /images/teampic/jDang.png
+    info: MSc Student (Biostatistics)
+    page: "#"
+
+VLiao:
+    name: "Vanessa Liao"
+    photo: /images/teampic/difpic.png
+    info: MSc Student (Biostatistics)
+    page: "#"
 
 # Past
+GWang:
+    name: "Gerald Wang"
+    photo: ""
+    is_alumni: true
+    after_position: "BSc Student (Comp. Sci.), University of Toronto"
+    info: 
+    page: ""
+
 EZhang:
     name: "Erica Zhang"
     photo: ""
@@ -66,24 +74,24 @@ TKyong:
 # Internal Collaborators
 MHatzopoulou:
     name: "Prof. Marianne Hatzopoulou"
-    photo: "/images/teampic/mHatzopoulou.jpg"
+    photo: /images/teampic/mHatzopoulou.jpg
     not_primary: true
     info: Department of Civil & Mineral Engineering, UofT
-    page: "https://civmin.utoronto.ca/home/about-us/directory/professors/marianne-hatzopoulou/"
+    page: https://civmin.utoronto.ca/home/about-us/directory/professors/marianne-hatzopoulou/
 
 JKong:
     name: "Prof. Jude Kong"
-    photo: "/images/teampic/jKong.jpg"
+    photo: /images/teampic/jKong.jpg
     not_primary: true
     info: DLSPH, UofT
-    page: "https://www.dlsph.utoronto.ca/faculty-profile/kong-jude/"
+    page: https://www.dlsph.utoronto.ca/faculty-profile/kong-jude/
 
 BKuimi:
     name: "Prof. Brice Batomen Kuimi "
-    photo: "/images/teampic/bKuimi.jpeg"
+    photo: /images/teampic/bKuimi.jpeg
     not_primary: true
     info: DLSPH, UofT
-    page: "https://www.dlsph.utoronto.ca/faculty-profile/batomen-brice/"
+    page: https://www.dlsph.utoronto.ca/faculty-profile/batomen-brice/
 
 RCalderon:
     name: "Dr. Renzo Calderon"
@@ -130,10 +138,10 @@ AMitani :
 # External Collaborators
 JXu:
     name: "Prof. Junshi Xu"
-    photo: "/images/teampic/mHatzopoulou.jpg"
+    photo: /images/teampic/jXu.jpg
     not_primary: true
     info: Department of Geography, University of Hong Kong, Hong Kong
-    page: "https://civmin.utoronto.ca/home/about-us/directory/professors/marianne-hatzopoulou/"
+    page: https://geog.hku.hk/js-xu
 
 BKim:
     name: "Dr. Ben Kim"
@@ -157,7 +165,7 @@ KChoo:
     page: https://kennychoo.net
 
 RBalan:
-    name: "Prof. Rajesh Krishna Balan"
+    name: "Prof. Rajesh Balan"
     photo: /images/teampic/rBalan.jpg
     info: School of Computing and Information Systems, SMU, Singapore
     not_primary: true
