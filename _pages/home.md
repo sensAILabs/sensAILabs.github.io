@@ -74,8 +74,7 @@ permalink: /
 
 <div class="quote-section text-center" markdown="0">
     <blockquote class="blockquote">
-        <p>“When I want to understand what is happening today or try to decide what will happen tomorrow, I look
-            back.”</p>
+        <p>“When I want to understand what is happening today or try to decide what will happen tomorrow, I look back.”</p>
         <footer>– Omar Khayyam (Mathematician, Philosopher)</footer>
     </blockquote>
 </div>
@@ -90,8 +89,8 @@ permalink: /
                 Our research commits to innovative, responsibly AI-driven health systems powered by ubiquitous computing. We look back at the data collected from our prototype devices to make sense of past events and anticipate future developments for the benefit of public health.
             </p>
             <p class="text-left">
-                <strong>We are looking for passionate new PhD students, Postdocs, and Master students to join the team</strong>
-                <a href="/vacancies">(more info)</a>!
+                <strong>If you’re curious and driven, we’d love to have you join our team and tackle these challenges.</strong>
+                <a href="/projects">(View Projects)</a>!
             </p>
         </div>
     </div>
