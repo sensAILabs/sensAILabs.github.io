@@ -15,7 +15,7 @@ permalink: /projects/
             <div class="card">
                 <div class="card-body" style="min-height: 250px">
                     <h5 class="card-title">{{ project.title }}</h5>
-                    <p class="card-text"> {{ project.excerpt }} </p>
+                    <p class="card-text"> {{ project.summary }} </p>
                     <a style="position: relative;bottom: 0" href="{{ project.url }}"> Learn More... </a>
                 </div>
                 <div class="card-footer d-flex flex-row flex-wrap justify-content-center">

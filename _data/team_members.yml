@@ -57,7 +57,7 @@ GWang:
 
 EZhang:
     name: "Erica Zhang"
-    photo: ""
+    photo: /images/teampic/eZhang.jpg
     is_alumni: true
     after_position: "Researcher (MSc Biostatistics), University of Toronto"
     info: 

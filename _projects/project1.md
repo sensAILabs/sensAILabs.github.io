@@ -3,7 +3,7 @@ layout: post
 title:  "Traffic Safety Meets Public and Environmental Health"
 members: [ASadeghi,EZhang,MHatzopoulou,JXu,BKuimi]
 excerpt_separator: <!--more-->
-summary: "This project combines traffic data analysis with advanced sensing and detection approaches to estimate black carbon, enhance road safety, and reveal hidden environmental and health risks."
+summary: "This project combines traffic data analysis with advanced sensing and detection approaches to estimate vehicle emission, enhance road safety, and reveal hidden environmental and health risks."
 ---
 
 Toronto faces some of the worst traffic congestion in the world. In 2023, driving 10 km downtown took nearly 30 minutes on average, and by 2024 drivers were still losing more than 70 hours each year to congestion. Rush hour stretches from early morning until evening, with travel times nearly doubling during peak periods. While drivers lose time, the impacts reach further. Pedestrians and cyclists passing through busy intersections are exposed to elevated levels of exhaust, and air quality hotspots near highways and traffic corridors regularly record particulate matter several times higher than the city average. 
