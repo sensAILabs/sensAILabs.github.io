@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Traffic Safety Meets Public and Environmental Health"
-members: [CZakaria,ASadeghi,MHatzopoulou,JXu]
+members: [ASadeghi,MHatzopoulou,JXu]
 excerpt_separator: <!--more-->
 ---
 
