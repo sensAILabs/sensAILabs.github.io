@@ -11,32 +11,31 @@ permalink: /
         display: none;
     }
 
-    {
-        overflow: hidden
-    ;
-    }
-
     .carousel-inner {
         display: flex;
+        justify-content: center;
+        align-items: center;
+        overflow: hidden;
     }
 
-    .carousel-inner .item {
+    .carousel-inner .item,
+    .carousel-item {
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
+        align-items: center;
     }
 
-    /* Ensure the images are responsive and properly sized */
-    .carousel-inner img {
-        width: auto;
-        height: auto;
-        /*border-radius: 0 !important;*/
-    }
-
+    /* Keep images at natural size */
+    .carousel-inner img,
     .carousel-item img {
-
+        width: auto !important;
+        height: auto !important;
+        max-width: none !important;
+        max-height: none !important;
         border-radius: 2px !important;
     }
 </style>
+
 
 <div style="padding:0 4vw" markdown="0" id="carousel" class="carousel slide" data-bs-ride="carousel"
      data-bs-interval="4000" data-bs-pause="hover">
