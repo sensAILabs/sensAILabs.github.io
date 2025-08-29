@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Balancing Practical Usability with Accurate Performance in Sustainable Sleep Monitoring Systems"
-members: [lWang,GWang,VBhat,AYadollahi,BKim,RCalderon,VPNguyen,RBalan]
+title:  "Balancing Usability and Accuracy in Sustainable Sleep Monitoring"
+members: [LWang,GWang,VBhat,AYadollahi,BKim,RCalderon,VPNguyen,RBalan]
 opening: true
 excerpt_separator: <!--more-->
 summary: "This research develops and evaluates sustainable sleep health monitoring systems that employs unconventional sensing solutions while assessing their accuracy as proxies for sleep quality and behavior."
