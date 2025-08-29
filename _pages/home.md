@@ -11,31 +11,32 @@ permalink: /
         display: none;
     }
 
+    {
+        overflow: hidden
+    ;
+    }
+
     .carousel-inner {
         display: flex;
-        justify-content: center;
-        align-items: center;
-        overflow: hidden;
     }
 
-    .carousel-inner .item,
-    .carousel-item {
+    .carousel-inner .item {
         display: flex;
-        justify-content: center;
-        align-items: center;
+        justify-content: space-between;
     }
 
-    /* Keep images at natural size */
-    .carousel-inner img,
+    /* Ensure the images are responsive and properly sized */
+    .carousel-inner img {
+        width: auto;
+        height: auto;
+        /*border-radius: 0 !important;*/
+    }
+
     .carousel-item img {
-        width: auto !important;
-        height: auto !important;
-        max-width: none !important;
-        max-height: none !important;
+
         border-radius: 2px !important;
     }
 </style>
-
 
 <div style="padding:0 4vw" markdown="0" id="carousel" class="carousel slide" data-bs-ride="carousel"
      data-bs-interval="4000" data-bs-pause="hover">
@@ -49,7 +50,7 @@ permalink: /
 
     <div class="carousel-inner" role="listbox" markdown="0">
         {% for slide in site.data.sliders.mainSlider %}
-            <div style="max-width: 1080px !important;" class="carousel-item {% if forloop.first %}active{% endif %}">
+            <div style="height: 55vh" class="carousel-item {% if forloop.first %}active{% endif %}">
                 <img src="{{ slide.image }}" alt="{{ slide.title }}" class="d-block w-100 h-100">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>{{ slide.title }}</h5>
