@@ -84,62 +84,62 @@ MHatzopoulou:
     name: "Prof. Marianne Hatzopoulou"
     photo: /images/teampic/mHatzopoulou.jpg
     not_primary: true
-    info: Department of Civil & Mineral Engineering, UofT
+    info: Department of Civil & Mineral Engineering, University of Toronto, ON, CA
     page: https://civmin.utoronto.ca/home/about-us/directory/professors/marianne-hatzopoulou/
 
 JKong:
     name: "Prof. Jude Kong"
     photo: /images/teampic/jKong.jpg
     not_primary: true
-    info: DLSPH, UofT
+    info: Dalla Lana School of Public Health, University of Toronto, ON, CA
     page: https://www.dlsph.utoronto.ca/faculty-profile/kong-jude/
 
 BKuimi:
     name: "Prof. Brice Batomen Kuimi "
     photo: /images/teampic/bKuimi.jpeg
     not_primary: true
-    info: DLSPH, UofT
+    info: Dalla Lana School of Public Health, University of Toronto, ON, CA
     page: https://www.dlsph.utoronto.ca/faculty-profile/batomen-brice/
 
 RCalderon:
     name: "Dr. Renzo Calderon"
     photo: /images/teampic/rCalderon.jpg
-    info: Postdoctoral Fellow, IHPME, UofT
+    info: Postdoctoral Fellow, Institute of Health Policy, Management and Evaluation, University of Toronto, ON, CA
     not_primary: true
     page: https://ihpme.utoronto.ca/postdoc-profile/calderon-anyosa-renzo-jose-carlos/
 
 VBhat:
     name: "Prof. Venkat Bhat"
     photo: /images/teampic/vBhat.jpeg
-    info: Staff Psychiatrist & Clinician Scientist, St. Michael's Hospital
+    info: Staff Psychiatrist & Clinician Scientist, St. Michael's Hospital, ON, CA
     not_primary: true
     page: https://research.unityhealth.to/profiles/venkat-bhat/
 
 AYadollahi:
     name: "Prof. Azadeh Yadollahi"
     photo: /images/teampic/aYadollahi.jpg
-    info: Senior Scientist, KITE
+    info: Senior Scientist, KITE, ON, CA
     not_primary: true
     page: https://www.uhnresearch.ca/researcher/azadeh-yadollahi
 
 JMostafa:
     name: "Prof. Javed Mostafa"
     photo: /images/teampic/jMostafa.jpg
-    info: Faculty of Information, UofT
+    info: Faculty of Information, University of Toronto, ON, CA
     not_primary: true
     page: https://ischool.utoronto.ca/faculty-profile/javed-mostafa/
 
 KKeshavjee :
     name: "Prof. Karim Keshavjee"
     photo: /images/teampic/kKeshavjee.jpg
-    info: IHPME, UofT
+    info: Institute of Health Policy, Management and Evaluation, University of Toronto, ON, CA
     not_primary: true
     page: https://ihpme.utoronto.ca/faculty-profile/karim-keshavjee/
 
 AMitani :
     name: "Prof. Aya Mitani"
     photo: /images/teampic/aMitani.jpeg
-    info: DLSPH, UofT
+    info: Dalla Lana School of Public Health, University of Toronto, ON, CA
     not_primary: true
     page: https://www.dlsph.utoronto.ca/faculty-profile/ayamitani/
 
@@ -161,27 +161,27 @@ BKim:
 VPNguyen:
     name: "Prof. VP Nguyen"
     photo: /images/teampic/vpNguyen.jpeg
-    info: Manning College of Information and Computer Sciences, UMASS, MA, USA
+    info: Manning College of Information and Computer Sciences, University of Massachusetts, MA, USA
     not_primary: true
     page: https://www.cics.umass.edu/about/directory/vp-nguyen
 
 KChoo:
     name: "Prof. Kenny Choo"
     photo: /images/teampic/kChoo.png
-    info: Information Systems Technology and Design, SUTD, Singapore 
+    info: Information Systems Technology and Design, Singapore University of Technology and Design, Singapore 
     not_primary: true
     page: https://kennychoo.net
 
 PSFoong:
     name: "Dr. Pin Sym Foong"
     photo: /images/teampic/psFoong.jpg
-    info: Senior Research Fellow, National University of Singapore, Singapore 
+    info: Senior Research Fellow, Saw Swee Hock School Of Public Health, National University of Singapore, Singapore 
     not_primary: true
     page: https://sph.nus.edu.sg/faculty-directory/foong-pin-sym/
 
 RBalan:
     name: "Prof. Rajesh Balan"
     photo: /images/teampic/rBalan.jpg
-    info: School of Computing and Information Systems, SMU, Singapore
+    info: School of Computing and Information Systems, Singapore Management University, Singapore
     not_primary: true
     page: https://computing.smu.edu.sg/faculty/profile/591/rajesh-krishna-balan
