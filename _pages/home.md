@@ -50,7 +50,7 @@ permalink: /
 
     <div class="carousel-inner" role="listbox" markdown="0">
         {% for slide in site.data.sliders.mainSlider %}
-            <div style="height: 55vh" class="carousel-item {% if forloop.first %}active{% endif %}">
+            <div style="max-width: 1080px !important;" class="carousel-item {% if forloop.first %}active{% endif %}">
                 <img src="{{ slide.image }}" alt="{{ slide.title }}" class="d-block w-100 h-100">
                 <div class="carousel-caption d-none d-md-block">
                     <h5>{{ slide.title }}</h5>
