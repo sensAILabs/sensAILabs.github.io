@@ -27,7 +27,7 @@ permalink: /
 
     /* Ensure the images are responsive and properly sized */
     .carousel-inner img {
-        width: 100%;
+        width: auto;
         height: auto;
         /*border-radius: 0 !important;*/
     }
