@@ -172,6 +172,13 @@ KChoo:
     not_primary: true
     page: https://kennychoo.net
 
+PSFoong:
+    name: "Dr. Pin Sym Foong"
+    photo: /images/teampic/psFoong.jpg
+    info: Senior Research Fellow, National University of Singapore, Singapore 
+    not_primary: true
+    page: https://sph.nus.edu.sg/faculty-directory/foong-pin-sym/
+
 RBalan:
     name: "Prof. Rajesh Balan"
     photo: /images/teampic/rBalan.jpg
