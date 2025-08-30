@@ -22,7 +22,9 @@ permalink: /
         <div class="col-lg-1 col-md-1 col-sm-0"></div>
         <div class="col-lg-10 col-md-10 col-sm-12">
             <p>
-                Our research commits to innovative, responsibly AI-driven health systems powered by ubiquitous computing. We look back at the data collected from our prototype devices to make sense of past events and anticipate future developments for the benefit of public health. <strong>...If that sounds daunting, don’t worry. We provide the caffeine, the algorithms, and just enough chaos to keep things interesting while we tackle these challenges together. Join us!</strong>
+                Our research commits to innovative, responsibly AI-driven health systems powered by ubiquitous computing. We look back at the data collected from our prototype devices to make sense of past events and anticipate future developments for the benefit of public health.
+            </br>
+                <em>If that sounds daunting, don’t worry. We provide the caffeine, the algorithms, and just enough chaos to keep things interesting while we tackle these challenges together. Join us!</em>
             </p>
         </div>
     </div>
