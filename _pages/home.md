@@ -6,12 +6,11 @@ sitemap: false
 permalink: /
 ---
 
-<!-- HERO IMAGE: put this at the very top of the file -->
+<!-- HERO IMAGE AT TOP -->
 <div class="page-hero" markdown="0">
   <img src="/images/slider/sensai_main.jpg" alt="Fall 2025 header" class="page-hero-img">
   <span class="hero-overlay">Fall 2025</span>
 </div>
-
 
 <hr class="quote-divider" markdown="0">
     
