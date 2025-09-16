@@ -172,28 +172,35 @@ firstp {
     margin-right: 30px;
 }
 
-.img-float {
-  float: left;
+/* HERO: full-width responsive image with overlay text */
+.page-hero {
   position: relative;
-  margin: 0 1rem 1rem 0;
-  line-height: 0;
-  max-width: 100%;   /* container scales with page */
+  width: 100%;
+  overflow: hidden;
+  margin: 0;               /* flush to top of page/section */
 }
 
-.img-float img {
+.page-hero-img {
   display: block;
-  width: 100%;       /* responsive scaling */
-  height: auto;      /* maintain aspect ratio */
+  width: 100%;             /* scales with viewport */
+  height: auto;
+  max-width: none;
+  object-fit: cover;       /* preserves cover behavior; remove if you want no cropping */
 }
 
-.overlay-text {
+/* overlay label */
+.hero-overlay {
   position: absolute;
-  bottom: 10px;
-  right: 10px;
+  bottom: 16px;
+  right: 16px;
   background: rgba(0,0,0,0.6);
   color: #fff;
-  padding: 4px 8px;
-  font-size: 1rem;
+  padding: 0.4rem 0.7rem;
   border-radius: 6px;
+  font-size: clamp(0.85rem, 1.6vw, 1.15rem); /* responsive but bounded */
+  line-height: 1;
+  z-index: 10;
+  pointer-events: none;
+  white-space: nowrap;
 }
 
