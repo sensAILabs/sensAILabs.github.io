@@ -6,12 +6,6 @@ sitemap: false
 permalink: /
 ---
 
-<!-- HERO IMAGE AT TOP -->
-<div class="page-hero" markdown="0">
-  <img src="/images/slider/sensai_main.jpg" alt="Fall 2025 header" class="page-hero-img">
-  <span class="hero-overlay">Fall 2025</span>
-</div>
-
 <!-- HERO SLIDER AT TOP -->
 <div id="heroCarousel" class="carousel slide page-hero" data-bs-ride="carousel" markdown="0">
   <div class="carousel-inner">
