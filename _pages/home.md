@@ -6,8 +6,13 @@ sitemap: false
 permalink: /
 ---
 
-<hr class="quote-divider" markdown="0">
+<div class="img-float">
+  <img src="/images/slider/sensai_main.jpg" >
+  <span class="overlay-text">Fall 2025</span>
+</div>
 
+<hr class="quote-divider" markdown="0">
+    
 <div class="quote-section text-center" markdown="0">
     <blockquote class="blockquote">
         <p>“When I want to understand what is happening today or try to decide what will happen tomorrow, I look back.”</p>
