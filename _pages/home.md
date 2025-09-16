@@ -12,6 +12,32 @@ permalink: /
   <span class="hero-overlay">Fall 2025</span>
 </div>
 
+<!-- HERO SLIDER AT TOP -->
+<div id="heroCarousel" class="carousel slide page-hero" data-bs-ride="carousel" markdown="0">
+  <div class="carousel-inner">
+    <!-- Slide 1 -->
+    <div class="carousel-item active">
+      <img src="/images/slider/sensailab_fall2025.jpg" class="d-block w-100 page-hero-img" alt="Slide 1">
+      <span class="hero-overlay">Fall 2025</span>
+    </div>
+    <!-- Slide 2 -->
+    <div class="carousel-item">
+      <img src="/images/slider/sensai_main.jpg" class="d-block w-100 page-hero-img" alt="Slide 2">
+      <span class="hero-overlay">Innovation in Health</span>
+    </div>
+  </div>
+
+  <!-- Prev/Next controls -->
+  <button class="carousel-control-prev" type="button" data-bs-target="#heroCarousel" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#heroCarousel" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
 <hr class="quote-divider" markdown="0">
     
 <div class="quote-section text-center" markdown="0">
