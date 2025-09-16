@@ -17,7 +17,7 @@ permalink: /
     <!-- Slide 2 -->
     <div class="carousel-item">
       <img src="/images/slider/sensai_main.jpg" class="d-block w-100 page-hero-img" alt="Slide 2">
-      <span class="hero-overlay">Innovating in Health</span>
+      <span class="hero-overlay">From forests to streets, AI keeps watch</span>
     </div>
   </div>
 
