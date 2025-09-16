@@ -172,3 +172,28 @@ firstp {
     margin-right: 30px;
 }
 
+.img-float {
+  float: left;          /* participates in float layout */
+  position: relative;   /* so overlay can be absolutely positioned */
+  margin: 0 1rem 1rem 0;
+  line-height: 0;       /* removes inline spacing */
+}
+
+.img-float img {
+  display: block;       /* avoids inline gap under image */
+  width: auto;          /* keep intrinsic width */
+  height: auto;         /* keep intrinsic height */
+  max-width: none;      /* don’t auto-shrink */
+}
+
+.overlay-text {
+  position: absolute;
+  bottom: 10px;         /* distance from bottom */
+  right: 10px;          /* distance from right */
+  background: rgba(0,0,0,0.6); /* semi-transparent bg */
+  color: white;
+  padding: 4px 8px;
+  font-size: 1rem;
+  border-radius: 6px;
+}
+
