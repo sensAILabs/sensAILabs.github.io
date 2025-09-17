@@ -12,7 +12,7 @@ permalink: /
     <!-- Slide 1 -->
     <div class="carousel-item active">
       <img src="/images/slider/sensailab_fall2025.jpg" class="d-block w-100 page-hero-img" alt="Slide 1">
-      <span class="hero-overlay">Fall 2025</span>
+      <span class="hero-overlay">Kicking off Fall 2025 together with Prof. Kuimi and Prof. Mitani. Here’s to a great semester ahead!</span>
     </div>
     <!-- Slide 2 
     <div class="carousel-item">
