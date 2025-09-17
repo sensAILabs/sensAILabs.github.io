@@ -175,19 +175,19 @@ firstp {
 /* HERO: full-width responsive image with overlay text */
 .page-hero {
   position: relative;
-  width: 50%;
-  margin: 0;
+  width: 80%;              /* 80% of the page */
+  margin: 0 auto;          /* center horizontally */
   overflow: hidden;
 }
 
 .page-hero-img {
   display: block;
-  width: 80%;      /* responsive */
+  width: 100%;             /* fill container */
   height: auto;
   object-fit: cover;
 }
 
-/* Overlay text shared by both slides */
+/* Overlay text */
 .hero-overlay {
   position: absolute;
   bottom: 16px;
