@@ -175,7 +175,7 @@ firstp {
 /* HERO: full-width responsive image with overlay text */
 .page-hero {
   position: relative;
-  width: 80%;
+  width: 50%;
   margin: 0;
   overflow: hidden;
 }
