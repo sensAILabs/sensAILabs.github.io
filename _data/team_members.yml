@@ -22,6 +22,12 @@ JZhang:
     info: PhD Student (Biostatistics)
     page: https://jasperzhang.com/
 
+EKang:
+    name: "Ente Kang"
+    photo: /images/teampic/difpic.png
+    info: PhD Student (Biostatistics)
+    page: ""
+
 LWang:
     name: "Lisa Wang"
     photo: /images/teampic/lWang.jpeg
@@ -45,6 +51,13 @@ VLiao:
     photo: /images/teampic/vLiao.jpg
     info: MSc Student (Biostatistics)
     page: "#"
+
+AChopra:
+    name: "Abhishek Chopra"
+    photo: /images/teampic/aChopra.jpg
+    info: MSc Student (Health Informatics)
+    page: https://www.linkedin.com/in/abhishek-chopra-5728341a7/
+
 
 # Past
 GWang:
