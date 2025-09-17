@@ -175,14 +175,15 @@ firstp {
 /* HERO: full-width responsive image with overlay text */
 .page-hero {
   position: relative;
-  width: 80%;              /* 80% of the page */
-  margin: 0 auto;          /* center horizontally */
+  width: 100%;           /* container spans full page */
+  text-align: center;    /* center children inline-blocks */
+  margin: 0 auto;
   overflow: hidden;
 }
 
 .page-hero-img {
-  display: block;
-  width: 100%;             /* fill container */
+  display: inline-block; /* allows centering with text-align */
+  width: 80%;            /* image is 80% of page */
   height: auto;
   object-fit: cover;
 }
