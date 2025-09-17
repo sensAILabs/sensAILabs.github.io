@@ -175,14 +175,14 @@ firstp {
 /* HERO: full-width responsive image with overlay text */
 .page-hero {
   position: relative;
-  width: 100%;
+  width: 80%;
   margin: 0;
   overflow: hidden;
 }
 
 .page-hero-img {
   display: block;
-  width: 100%;      /* responsive */
+  width: 80%;      /* responsive */
   height: auto;
   object-fit: cover;
 }
