@@ -14,11 +14,11 @@ permalink: /
       <img src="/images/slider/sensailab_fall2025.jpg" class="d-block w-100 page-hero-img" alt="Slide 1">
       <span class="hero-overlay">Fall 2025</span>
     </div>
-    <!-- Slide 2 -->
+    <!-- Slide 2 
     <div class="carousel-item">
       <img src="/images/slider/sensai_main.jpg" class="d-block w-100 page-hero-img" alt="Slide 2">
       <span class="hero-overlay">From forests to streets, AI keeps watch</span>
-    </div>
+    </div> -->
   </div>
 
   <!-- Prev/Next controls -->
