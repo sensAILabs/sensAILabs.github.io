@@ -36,8 +36,10 @@ permalink: /
     
 <div class="quote-section text-center" markdown="0">
     <blockquote class="blockquote">
+        <font face="Lucida Handwriting, Cursive">
         <p>“When I want to understand what is happening today or try to decide what will happen tomorrow, I look back.”</p>
         <footer>– Omar Khayyam (Mathematician, Philosopher)</footer>
+        </font>
     </blockquote>
 </div>
 
