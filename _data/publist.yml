@@ -25,8 +25,7 @@
   - title: "Human-centered AI for Mental Health: From Risk Prediction to Physician-aligned Design Guidelines"
     authors: Muhammad, S.
     periodical: "MSc, Health Service Research, AI Stream"
-      - Dissertation: https://sensailabs.ca/pdf/thesis_SyedMuhammad.pdf
-      - Oral Presentation: ""
+      #- Dissertation: https://sensailabs.ca/pdf/thesis_SyedMuhammad.pdf
 
   - title: "From Cameras to Concentrations: Estimating Black Carbon From Vehicles with Machine Learning and Computer Vision Techniques"
     authors: Sadeghi, A.
