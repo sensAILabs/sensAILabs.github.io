@@ -3,13 +3,13 @@
     authors: Muhammad, S.
     periodical: "MSc, Health Service Research, AI Stream"
     links:
-      - Dissertation: https://sensailabs.ca/pdf/thesis_SyedMuhammad.pdf
+      - PDF: https://sensailabs.ca/pdf/thesis_SyedMuhammad.pdf
 
-  - title: "[Student Dissertation] From Cameras to Concentrations: Estimating Black Carbon From Vehicles with Machine Learning and Computer Vision Techniques"
-    authors: Sadeghi, A.
-    periodical: "MSc, Health Service Research, AI Stream"
-    links:
-      - PDF: "/pdf/dlsphResearchDay2025_liao.pdf"
+  #- title: "[Student Dissertation] From Cameras to Concentrations: Estimating Black Carbon From Vehicles with Machine Learning and Computer Vision Techniques"
+  #  authors: Sadeghi, A.
+  #  periodical: "MSc, Health Service Research, AI Stream"
+  #  links:
+  #    - PDF: https://sensailabs.ca/pdf/thesis_AryanSadeghi.pdf
 
   - title: "The Prevalence and Predictors of Digital Proxy Behavior in the United States: Cross-Sectional Survey Study"
     authors: Foong, P. S., Zakaria, C., Pakianathan, P., Phua, A. I. H., and Koh, G. C.
