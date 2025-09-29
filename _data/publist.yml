@@ -1,4 +1,14 @@
-"Paper Publication":
+"Publications":
+  - title: "[Student Dissertation] Human-centered AI for Mental Health: From Risk Prediction to Physician-aligned Design Guidelines"
+    authors: Muhammad, S.
+    periodical: "MSc, Health Service Research, AI Stream"
+      #- Dissertation: https://sensailabs.ca/pdf/thesis_SyedMuhammad.pdf
+
+  - title: "[Student Dissertation] From Cameras to Concentrations: Estimating Black Carbon From Vehicles with Machine Learning and Computer Vision Techniques"
+    authors: Sadeghi, A.
+    periodical: "MSc, Health Service Research, AI Stream"
+    #  - PDF: "/pdf/dlsphResearchDay2025_liao.pdf"
+
   - title: "The Prevalence and Predictors of Digital Proxy Behavior in the United States: Cross-Sectional Survey Study"
     authors: Foong, P. S., Zakaria, C., Pakianathan, P., Phua, A. I. H., & Koh, G. C.
     periodical: "Journal of Medical Internet Research, 27, e69806 (2025)"
@@ -11,7 +21,7 @@
     links:
       - PDF: https://spcare.bmj.com/content/bmjspcare/early/2024/12/05/spcare-2024-005179.full.pdf
 
-"Poster Presentation":
+"Presentations":
   #- title: "Employing Computer Vision and Machine Learning Techniques to Estimate Black Carbon Emissions from Traffic Activities"
   #  authors: Sadeghi, A., Zakaria, C.
   #  periodical: "Climate Positive Energy Research Day (2025)"
@@ -21,16 +31,7 @@
     periodical: "DLSPH Biostatistics Research Day (2025)"
       - PDF: https://sensailabs.ca/pdf/dlsphResearchDay2025_liao.pdf
 
-"Students' Dissertation":
-  - title: "Human-centered AI for Mental Health: From Risk Prediction to Physician-aligned Design Guidelines"
-    authors: Muhammad, S.
-    periodical: "MSc, Health Service Research, AI Stream"
-      #- Dissertation: https://sensailabs.ca/pdf/thesis_SyedMuhammad.pdf
-
-  - title: "From Cameras to Concentrations: Estimating Black Carbon From Vehicles with Machine Learning and Computer Vision Techniques"
-    authors: Sadeghi, A.
-    periodical: "MSc, Health Service Research, AI Stream"
-    #  - PDF: "/pdf/dlsphResearchDay2025_liao.pdf"
+  
 
     
 
