@@ -4,73 +4,64 @@ CZakaria:
     info: Lab Director, Asst. Professor
     page: https://nczakaria.github.io/
 
+LWei:
+    name: "Landuo Wei"
+    photo: /images/teampic/lWei.jpg
+    info: PhD Candidate
+    page: https://cynthiawei020831.wixstudio.com/landuo_like_design
+
+SGomasta:
+    name: "Sarmistha Gomasta"
+    photo: /images/teampic/difpic.png
+    info: PhD Candidate
+    page: "#"
+
 ASadeghi:
     name: "Aryan Sadeghi"
     photo: /images/teampic/aSadeghi.jpg
-    info: MSc Student (AI in HSR)
+    info: Research Assistant (MSc '25)
     page: https://www.linkedin.com/in/aryan-sadeghi-269b82b0/
 
 SMuhammad:
     name: "Syed Muhammad"
     photo: /images/teampic/sMuhammad.jpeg
-    info: MSc Student (AI in HSR)
+    info: Research Assistant (MSc '25')
     page: https://www.linkedin.com/in/syed-muhammad-ibne-zulfiker/
-
-JZhang:
-    name: "Jasper Zhang"
-    photo: /images/teampic/jZhang.jpg
-    info: PhD Student (Biostatistics)
-    page: https://jasperzhang.com/
-
-EKang:
-    name: "Ente Kang"
-    photo: /images/teampic/difpic.png
-    info: PhD Student (Biostatistics)
-    page: ""
 
 LWang:
     name: "Lisa Wang"
     photo: /images/teampic/lWang.jpeg
-    info: MSc Student (Biostatistics)
+    info: Research Assistant (ongoing, MSc Biostatistics)
     page: https://ca.linkedin.com/in/lisa-wang-a6b028198
 
-LWei:
-    name: "Landuo Wei"
-    photo: /images/teampic/lWei.jpg
-    info: MSc Student (Faculty of Information)
-    page: https://cynthiawei020831.wixstudio.com/landuo_like_design
+JGavieta:
+    name: "Jules Gavieta"
+    photo: /images/teampic/difpic.png
+    info: Research Assistant (BSc '25)
+    page: "#"
 
+DKustra:
+    name: "Damian Kustra"
+    photo: /images/teampic/difpic.png
+    info: Research Assistant (ongoing, BSc Engineering)
+    page: "#"
+
+
+# Past
 JDang:
     name: "Jason Dang"
     photo: /images/teampic/jDang.png
+    is_alumni: true
     info: MSc Student (Biostatistics)
     page: "#"
 
 VLiao:
     name: "Vanessa Liao"
     photo: /images/teampic/vLiao.jpg
+    is_alumni: true
     info: MSc Student (Biostatistics)
     page: "#"
 
-AChopra:
-    name: "Abhishek Chopra"
-    photo: /images/teampic/aChopra.jpeg
-    info: MSc Student (Health Informatics)
-    page: https://www.linkedin.com/in/abhishek-chopra-5728341a7/
-
-KMangal:
-    name: "Kashmeena Mangal"
-    photo: /images/teampic/kMangal.jpeg
-    info: MSc Student (Health Informatics)
-    page: www.linkedin.com/in/kashmeena-mangal-60b7832a9
-
-PChhina:
-    name: "Pahul Chhina"
-    photo: /images/teampic/pChhina.jpeg
-    info: MSc Student (Health Informatics)
-    page: http://www.linkedin.com/in/pahul-chhina-816645382
-
-# Past
 GWang:
     name: "Gerald Wang"
     photo: /images/teampic/gWang.jpg

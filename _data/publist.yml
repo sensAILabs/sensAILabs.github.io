@@ -1,17 +1,4 @@
 "Publications":
-  - title: "[Student Dissertation] Human-centered AI for Mental Health: From Risk Prediction to Physician-aligned Design Guidelines"
-    authors: Muhammad, S.
-    periodical: "MSc, Health Service Research, AI Stream"
-    links:
-      - PDF: https://sensailabs.ca/pdf/thesis_SyedMuhammad.pdf
-      - PPT: https://sensailabs.ca/pdf/oral_SyedMuhammad.pdf
-
-  #- title: "[Student Dissertation] From Cameras to Concentrations: Estimating Black Carbon From Vehicles with Machine Learning and Computer Vision Techniques"
-  #  authors: Sadeghi, A.
-  #  periodical: "MSc, Health Service Research, AI Stream"
-  #  links:
-  #    - PDF: https://sensailabs.ca/pdf/thesis_AryanSadeghi.pdf
-
   - title: "The Prevalence and Predictors of Digital Proxy Behavior in the United States: Cross-Sectional Survey Study"
     authors: Foong, P. S., Zakaria, C., Pakianathan, P., Phua, A. I. H., and Koh, G. C.
     periodical: "Journal of Medical Internet Research, 27, e69806 (2025)"
@@ -24,10 +11,25 @@
     links:
       - PDF: https://spcare.bmj.com/content/bmjspcare/early/2024/12/05/spcare-2024-005179.full.pdf
 
-"Presentations":
-  #- title: "Employing Computer Vision and Machine Learning Techniques to Estimate Black Carbon Emissions from Traffic Activities"
-  #  authors: Sadeghi, A., Zakaria, C.
-  #  periodical: "Climate Positive Energy Research Day (2025)"
+"Thesis and Presentations":
+  - title: "Employing Computer Vision and Machine Learning Techniques to Estimate Black Carbon Emissions from Traffic Activities"
+    authors: Sadeghi, A., Zakaria, C.
+    periodical: "Climate Positive Energy Research Day (2025)"
+    links:
+      - PDF: https://sensailabs.ca/pdf/climatePositive_sadeghi.pdf
+
+  - title: "[Thesis] Human-centered AI for Mental Health: From Risk Prediction to Physician-aligned Design Guidelines"
+    authors: Muhammad, S.
+    periodical: "MSc, Health Service Research, AI Stream"
+    links:
+      - PDF: https://sensailabs.ca/pdf/thesis_SyedMuhammad.pdf
+      - PPT: https://sensailabs.ca/pdf/oral_SyedMuhammad.pdf
+
+  - title: "[Thesis] From Cameras to Concentrations: Estimating Black Carbon From Vehicles with Machine Learning and Computer Vision Techniques"
+    authors: Sadeghi, A.
+    periodical: "MSc, Health Service Research, AI Stream"
+    links:
+      - PDF: https://sensailabs.ca/pdf/thesis_AryanSadeghi.pdf
 
   - title: "Comparing Approaches to Time-Dependent Covariates in Survival Analysis: Extended Cox vs. Machine Learning Models"
     authors: Liao, V., Zhang, J., Xu, B., and Zakaria, C.
@@ -35,9 +37,6 @@
     links:
       - PDF: https://sensailabs.ca/pdf/dlsphResearchDay2025_liao.pdf
 
-  
-
-    
 
 #Past:
 #  - title: "AeroSense: Sensing Aerosol Emissions from Indoor Human Activities"
