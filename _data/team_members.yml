@@ -1,47 +1,89 @@
 CZakaria:
     name: "Camellia Zakaria"
-    photo: /images/teampic/cZakaria.jpg
+    photo: /images/teampic/cZakaria.jpeg
     info: Lab Director, Asst. Professor
     page: https://nczakaria.github.io/
-
-LWei:
-    name: "Landuo Wei"
-    photo: /images/teampic/lWei.jpg
-    info: PhD Candidate
-    page: https://cynthiawei020831.wixstudio.com/landuo_like_design
 
 ASadeghi:
     name: "Aryan Sadeghi"
     photo: /images/teampic/aSadeghi.jpg
-    info: Research Assistant (MSc '25)
+    info: Research Staff (MSc '25)
     page: https://www.linkedin.com/in/aryan-sadeghi-269b82b0/
 
 SMuhammad:
     name: "Syed Muhammad"
     photo: /images/teampic/sMuhammad.jpeg
-    info: Research Assistant (MSc '25')
+    info: Research Staff (MSc '25')
     page: https://www.linkedin.com/in/syed-muhammad-ibne-zulfiker/
+
+LWei:
+    name: "Landuo Wei"
+    photo: /images/teampic/lWei.jpg
+    info: PhD Candidate (IHPME HSR '26)
+    page: https://cynthiawei020831.wixstudio.com/landuo_like_design
+
+ASharma:
+    name: "Arjun Sharma"
+    photo: /images/teampic/aSharma.png
+    info: PhD Candidate (IHPME HSR '26)
+    page: "#"
 
 LWang:
     name: "Lisa Wang"
     photo: /images/teampic/lWang.jpeg
-    info: Research Assistant (ongoing, MSc Biostatistics)
+    info: Research Trainee (ongoing, MSc Biostatistics)
     page: https://ca.linkedin.com/in/lisa-wang-a6b028198
 
 JGavieta:
     name: "Jules Gavieta"
-    photo: /images/teampic/difpic.png
-    info: Research Assistant (BSc '25)
+    photo: /images/teampic/jGavieta.jpeg
+    info: Research Trainee (BSc Psychology '25)
     page: "#"
 
 DKustra:
     name: "Damian Kustra"
     photo: /images/teampic/difpic.png
-    info: Research Assistant (ongoing, BSc Engineering)
+    info: Research Trainee (ongoing, BSc Engineering)
     page: "#"
 
+HWoo:
+    name: "Hanuel Woo (Miriam)"
+    photo: /images/teampic/difpic.png
+    info: Research Trainee (ongoing, IHPME MHI)
+    page: "#"
+
+AKansal:
+    name: "Abhinav Kansal"
+    photo: /images/teampic/aKansal.png
+    info: Research Volunteer (ongoing, MSc Biostatistics)
+    page: "https://www.linkedin.com/in/abhinavkansal/"
+
+AChopra:
+    name: "Abhishek Chopra"
+    photo: /images/teampic/aChopra.jpeg
+    info: Research Volunteer (IHPME MHI '26)
+    page: "#"
+
+XChen:
+    name: "Xinyi (Celeste) Chen"
+    photo: /images/teampic/xChen.jpg
+    info: Practicum Student (ongoing, MSc Biostatistics)
+    page: "#"
+
+YDuan:
+    name: "Yiting Duan"
+    photo: /images/teampic/diff.png
+    info: Practicum Student (ongoing, MSc Biostatistics)
+    page: "#"
 
 # Past
+JZhang:
+    name: "Jasper Zhang"
+    photo: /images/teampic/JZhang.png
+    is_alumni: true
+    info: PhD Student Volunteer (Biostatistics)
+    page: "#"
+
 JDang:
     name: "Jason Dang"
     photo: /images/teampic/jDang.png
@@ -53,6 +95,7 @@ VLiao:
     name: "Vanessa Liao"
     photo: /images/teampic/vLiao.jpg
     is_alumni: true
+    after_position: "Researcher (MSc Biostatistics), University of California San Francisco"
     info: MSc Student (Biostatistics)
     page: "#"
 
@@ -68,7 +111,7 @@ EZhang:
     name: "Erica Zhang"
     photo: /images/teampic/eZhang.jpg
     is_alumni: true
-    after_position: "Researcher (MSc Biostatistics), University of Toronto"
+    after_position: "Researcher (MSc Biostatistics), Hong Kong University"
     info: 
     page: ""
 
