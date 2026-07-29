@@ -16,17 +16,17 @@ permalink: /
     </div>
     <!-- Slide 2 -->
     <div class="carousel-item active">
-      <img src="/images/slider/sensailab_fall2025.jpg" class="d-block w-100 page-hero-img" alt="Slide 1">
+      <img src="/images/slider/sensailab_fall2025.jpg" class="d-block w-100 page-hero-img" alt="Slide 2">
       <span class="hero-overlay">Kicking off Fall 2025 together with Prof. Kuimi and Prof. Mitani.</span>
     </div>
     <!-- Slide 3 -->
     <div class="carousel-item">
-      <img src="/images/slider/sensai_grad2025.jpg" class="d-block w-100 page-hero-img" alt="Slide 2">
+      <img src="/images/slider/sensai_grad2025.jpg" class="d-block w-100 page-hero-img" alt="Slide 3">
       <span class="hero-overlay">Congratulations and Happy Graduation to our Students!</span>
     </div> 
     <!-- Slide 4 -->
     <div class="carousel-item">
-      <img src="/images/slider/sensai_youthoutreach2025.jpg" class="d-block w-100 page-hero-img" alt="Slide 3">
+      <img src="/images/slider/sensai_youthoutreach2025.jpg" class="d-block w-100 page-hero-img" alt="Slide 4">
       <span class="hero-overlay">Syed @ DLSPH Youth Outreach Program 2025</span>
     </div> 
   </div>
