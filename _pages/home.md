@@ -12,7 +12,7 @@ permalink: /
     <!-- Slide 1 -->
     <div class="carousel-item active">
       <img src="/images/slider/sensailab_fall2026.jpg" class="d-block w-100 page-hero-img" alt="Slide 1">
-      <span class="hero-overlay">Honored to host Prof. Rajesh Balan from SMU, Singapore, as our guest for this 2026 annual research showcase.</span>
+      <span class="hero-overlay">Honored to host Prof. Rajesh Balan from SMU, as our guest for this 2026 annual research showcase.</span>
     </div>
     <!-- Slide 2 -->
     <div class="carousel-item active">
