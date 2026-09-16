@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 summary: "This project leverages multimodal environmental sensing for data-driven labour justice, revealing pollution risks of on-the-road outdoor gig workers."
 ---
 
-As a spin-off of [Traffic Safety Meets Public and Environmental Health](https://sensailabs.ca/projects/project1.html), this study investigates the relationship between pollution exposure risks and personal health outcomes of outdoor workers (i.e., four-wheel drivers and/or two-wheel riders).
+This projects builds off from [Traffic Safety Meets Public and Environmental Health](https://sensailabs.ca/projects/project1.html). By leverages various sensing devices, we aim to capture data evidence of the pollution exposures and health risks associated with street-level working environments of outdoor gig workers (i.e., four-wheel drivers and/or two-wheel riders).
 
 Our project employs three types of devices:  (1) *Fitbit / Google Health data* for activity, physiology, and health responses; (2) *air quality sensors* for temperature, humidity, gas, and particulate matter; and (3) *dashcam footage* for video, and where enabled, audio, of the road environment.
 
@@ -27,9 +27,9 @@ Our project employs three types of devices:  (1) *Fitbit / Google Health data* f
 <!-- **We are seeking students who are interested in gaining experience in these areas.**  -->
 *Opportunities may be offered on either a volunteer basis or through paid positions, depending on project needs and available resources.*
 
-<!--more-->
+---
 
-> ### About this page
+> ### Notice: About this page
 >
 > This page and the two documents below exist to support **SensAI Labs' application for Google OAuth API verification** for the Google Health API scopes listed in the Privacy Policy. Google requires an applicant to publish, on a single domain it owns, a homepage describing the app's functionality together with a linked privacy policy and terms of service. This page serves that purpose.
 >
@@ -37,7 +37,7 @@ Our project employs three types of devices:  (1) *Fitbit / Google Health data* f
 >
 > **No one signs in here.** The Study's Google Health credentials belong to study-owned Google accounts created and controlled by the Research Team; no visitor or Participant ever authenticates with their own Google account through this site.
 
-# About the Study
+# The Study
 
 **Devices & accounts:** all devices are purchased or manufactured by Us and distributed to Participants — Participants don't use their own. The Fitbit connects to a Google account We create and control, not the Participant's personal account.
 
