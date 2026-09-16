@@ -48,7 +48,7 @@ DKustra:
 
 HWoo:
     name: "Haneul Woo (Miriam)"
-    photo: /images/teampic/difpic.png
+    photo: /images/teampic/hWoo.png
     info: Research Trainee (ongoing, IHPME MHI)
     page: "#"
 
@@ -79,7 +79,7 @@ YDuan:
 # Past
 JZhang:
     name: "Jasper Zhang"
-    photo: /images/teampic/JZhang.png
+    photo: /images/teampic/jZhang.jpg
     is_alumni: true
     info: PhD Student Volunteer (Biostatistics)
     page: "#"
@@ -134,21 +134,21 @@ YWu:
 # Internal Collaborators
 PChandra:
     name: "Prof. Priyank Chandra "
-    photo:
+    photo: /images/teampic/pChandra.jpeg
     not_primary: true
     info: Faculty of Information, University of Toronto, ON, CA
     page: https://www.priyankc.com/
 
 AThuppilikkat:
     name: "PhD Can. Ashique Thuppilikkat"
-    photo:
+    photo: /images/teampic/aThuppilikkat.png
     not_primary: true
     info: Faculty of Information, University of Toronto, ON, CA
     page: https://ischool.utoronto.ca/student-profile/ashique-ali-thuppilikkat/
 
 SShinde:
     name: "PhD Can. Shinde Siddhant"
-    photo:
+    photo: /images/teampic/difpic.png
     not_primary: true
     info: Faculty of Information, University of Toronto, ON, CA
     page: https://ischool.utoronto.ca/student-profile/shinde-siddhant-dilip/ 
@@ -219,7 +219,7 @@ AMitani :
 # External Collaborators
 CEkmekcioglu:
     name: "Prof. Cansu Ekmekcioglu"
-    photo: 
+    photo: /images/teampic/cEkmekcioglu.jpg
     not_primary: true
     info:  DeGroote School of Business, McMaster University, ON, CA
     page: https://ekmekcioglu.website/
