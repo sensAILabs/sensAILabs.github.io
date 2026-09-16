@@ -36,18 +36,18 @@ LWang:
 
 JGavieta:
     name: "Joules Gavieta"
-    photo: /images/teampic/jGavieta.jpeg
-    info: Research Trainee (BSc Political Science '25)
-    page: "#"
+    photo: /images/teampic/jGavieta.png
+    info: Research Trainee (BA Poli. Sci. '25)
+    page: "https://www.linkedin.com/in/jpgavieta/"
 
 DKustra:
     name: "Damian Kustra"
     photo: /images/teampic/dKustra.jpeg
-    info: Research Trainee (ongoing, BSc Engineering)
+    info: Research Trainee (ongoing, BSc Elec. Eng.)
     page: "#"
 
 HWoo:
-    name: "Hanuel Woo (Miriam)"
+    name: "Haneul Woo (Miriam)"
     photo: /images/teampic/difpic.png
     info: Research Trainee (ongoing, IHPME MHI)
     page: "#"
@@ -132,6 +132,27 @@ YWu:
     page: ""
 
 # Internal Collaborators
+PChandra:
+    name: "Prof. Priyank Chandra "
+    photo:
+    not_primary: true
+    info: Faculty of Information, University of Toronto, ON, CA
+    page: https://www.priyankc.com/
+
+AThuppilikkat:
+    name: "PhD Can. Ashique Thuppilikkat"
+    photo:
+    not_primary: true
+    info: Faculty of Information, University of Toronto, ON, CA
+    page: https://ischool.utoronto.ca/student-profile/ashique-ali-thuppilikkat/
+
+SShinde:
+    name: "PhD Can. Shinde Siddhant"
+    photo:
+    not_primary: true
+    info: Faculty of Information, University of Toronto, ON, CA
+    page: https://ischool.utoronto.ca/student-profile/shinde-siddhant-dilip/ 
+
 MHatzopoulou:
     name: "Prof. Marianne Hatzopoulou"
     photo: /images/teampic/mHatzopoulou.jpg
@@ -196,6 +217,13 @@ AMitani :
     page: https://www.dlsph.utoronto.ca/faculty-profile/ayamitani/
 
 # External Collaborators
+CEkmekcioglu:
+    name: "Prof. Cansu Ekmekcioglu"
+    photo: 
+    not_primary: true
+    info:  DeGroote School of Business, McMaster University, ON, CA
+    page: https://ekmekcioglu.website/
+
 JXu:
     name: "Prof. Junshi Xu"
     photo: /images/teampic/jXu.png
