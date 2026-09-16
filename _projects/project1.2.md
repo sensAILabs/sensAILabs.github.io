@@ -6,6 +6,8 @@ excerpt_separator: <!--more-->
 summary: "This project leverages multimodal environmental sensing for data-driven labour justice, revealing pollution risks of on-the-road outdoor gig workers."
 ---
 
+<a id="study-homepage"></a>
+
 This projects builds off from [Traffic Safety Meets Public and Environmental Health](https://sensailabs.ca/projects/project1.html). By leverages various sensing devices, we aim to capture data evidence of the pollution exposures and health risks associated with street-level working environments of outdoor gig workers (i.e., four-wheel drivers and/or two-wheel riders).
 
 Our project employs three types of devices:  (1) *Fitbit / Google Health data* for activity, physiology, and health responses; (2) *air quality sensors* for temperature, humidity, gas, and particulate matter; and (3) *dashcam footage* for video, and where enabled, audio, of the road environment.
